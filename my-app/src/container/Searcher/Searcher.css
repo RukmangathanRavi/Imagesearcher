@@ -1,0 +1,10 @@
+.dis {
+  width: 200px;
+  margin: 10px;
+}
+
+.show {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
